@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title">
+  <title id="title">Kombinacije</title>
+  <rect width="512" height="512" rx="96" fill="#0B0B0B"/>
+  <path d="M128 333c0-66 54-120 120-120h16c66 0 120 54 120 120v19c0 18-14 32-32 32H160c-18 0-32-14-32-32v-19Z" fill="#981B1E"/>
+  <path d="M188 188c0-38 30-68 68-68s68 30 68 68v44H188v-44Z" fill="#F2F2F2"/>
+  <path d="M210 223h92v64h-92z" fill="#981B1E"/>
+  <path d="M162 352h188" stroke="#F2F2F2" stroke-width="24" stroke-linecap="round"/>
+  <path d="M224 168h64" stroke="#0B0B0B" stroke-width="20" stroke-linecap="round"/>
+</svg>
