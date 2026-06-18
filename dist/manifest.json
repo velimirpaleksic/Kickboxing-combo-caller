@@ -1,0 +1,19 @@
+{
+  "name": "Kombinacije",
+  "short_name": "Kombinacije",
+  "description": "Kickboxing combo caller",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "theme_color": "#981B1E",
+  "background_color": "#0B0B0B",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
